@@ -1,4 +1,4 @@
-# hindunumerology-com
+# HinduNumerology.com
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,171 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hindunumerology-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hindunumerology.com/
+HinduNumerology.com offers free Vedic and Chaldean numerology calculators, providing life path, name numbers, personal year, daily guidance, and compatibility tools. Built by Dailyworks, the platform delivers ancient Hindu number wisdom computed precisely for personal insight and decision making.
+
+**Areas:** Company · Numerology · Vedic · Calculator · Free
+
+## HinduNumerology.com on APIs.io
+
+Everything profiled for HinduNumerology.com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hindunumerology-com/](https://apis.io/providers/hindunumerology-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (47)
+
+- [HinduNumerology.com About API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-about-api/) — The About API from HinduNumerology.com — 1 operation(s) for about.
+- [HinduNumerology.com Angel Numbers API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-angel-numbers-api/) — The Angel Numbers API from HinduNumerology.com — 3 operation(s) for angel numbers.
+- [HinduNumerology.com B7a7136ee39328d48474b0fbb982ac49.txt API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-b7a7136ee39328d48474b0fbb982ac49-txt-api/) — The B7a7136ee39328d48474b0fbb982ac49.txt API from HinduNumerology.com — 1 operation(s) for b7a7136ee39328d48474b0fbb982ac49.txt.
+- [HinduNumerology.com Bazi Calculator API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-bazi-calculator-api/) — The Bazi Calculator API from HinduNumerology.com — 1 operation(s) for bazi calculator.
+- [HinduNumerology.com Bazi Chart API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-bazi-chart-api/) — The Bazi Chart API from HinduNumerology.com — 1 operation(s) for bazi chart.
+- [HinduNumerology.com Blog API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-blog-api/) — The Blog API from HinduNumerology.com — 2 operation(s) for blog.
+- [HinduNumerology.com Calculator API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-calculator-api/) — The calculator API from HinduNumerology.com — 9 operation(s) for calculator.
+- [HinduNumerology.com Chaldean Name API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-chaldean-name-api/) — The Chaldean Name API from HinduNumerology.com — 1 operation(s) for chaldean name.
+- [HinduNumerology.com Chinese Zodiac API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-chinese-zodiac-api/) — The Chinese Zodiac API from HinduNumerology.com — 1 operation(s) for chinese zodiac.
+- [HinduNumerology.com Compatibility {a} {b} API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-compatibility-a-b-api/) — The Compatibility {a} {b} API from HinduNumerology.com — 1 operation(s) for compatibility {a} {b}.
+- [HinduNumerology.com Compatibility API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-compatibility-api/) — The Compatibility API from HinduNumerology.com — 1 operation(s) for compatibility.
+- [HinduNumerology.com Contact API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-contact-api/) — The Contact API from HinduNumerology.com — 1 operation(s) for contact.
+- [HinduNumerology.com Daily API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-daily-api/) — The Daily API from HinduNumerology.com — 1 operation(s) for daily.
+- [HinduNumerology.com Daily Numerology Forecast API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-daily-numerology-forecast-api/) — The Daily Numerology Forecast API from HinduNumerology.com — 1 operation(s) for daily numerology forecast.
+- [HinduNumerology.com Dashboard API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-dashboard-api/) — The Dashboard API from HinduNumerology.com — 1 operation(s) for dashboard.
+- [HinduNumerology.com Decisions API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-decisions-api/) — The Decisions API from HinduNumerology.com — 1 operation(s) for decisions.
+- [HinduNumerology.com Full Profile API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-full-profile-api/) — The Full Profile API from HinduNumerology.com — 1 operation(s) for full profile.
+- [HinduNumerology.com History API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-history-api/) — The History API from HinduNumerology.com — 1 operation(s) for history.
+- [HinduNumerology.com Indexnow API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-indexnow-api/) — The Indexnow API from HinduNumerology.com — 1 operation(s) for indexnow.
+- [HinduNumerology.com Kua Number API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-kua-number-api/) — The Kua Number API from HinduNumerology.com — 1 operation(s) for kua number.
+- [HinduNumerology.com Life Calendar API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-life-calendar-api/) — The Life Calendar API from HinduNumerology.com — 1 operation(s) for life calendar.
+- [HinduNumerology.com Life Path API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-life-path-api/) — The Life Path API from HinduNumerology.com — 1 operation(s) for life path.
+- [HinduNumerology.com Life Path Number {num} API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-life-path-number-num-api/) — The Life Path Number {num} API from HinduNumerology.com — 1 operation(s) for life path number {num}.
+- [HinduNumerology.com Lo Shu API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-lo-shu-api/) — The Lo Shu API from HinduNumerology.com — 1 operation(s) for lo shu.
+- [HinduNumerology.com Monthly Numerology Forecast API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-monthly-numerology-forecast-api/) — The Monthly Numerology Forecast API from HinduNumerology.com — 1 operation(s) for monthly numerology forecast.
+- [HinduNumerology.com Name Number {num} API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-name-number-num-api/) — The Name Number {num} API from HinduNumerology.com — 1 operation(s) for name number {num}.
+- [HinduNumerology.com Name Numbers API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-name-numbers-api/) — The Name Numbers API from HinduNumerology.com — 1 operation(s) for name numbers.
+- [HinduNumerology.com Number Check API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-number-check-api/) — The Number Check API from HinduNumerology.com — 1 operation(s) for number check.
+- [HinduNumerology.com Numbers API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-numbers-api/) — The Numbers API from HinduNumerology.com — 1 operation(s) for numbers.
+- [HinduNumerology.com Numerology Engine API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-numerology-engine-api/) — The Numerology Engine API from HinduNumerology.com — 2 operation(s) for numerology engine.
+- [HinduNumerology.com Personal Year API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-personal-year-api/) — The Personal Year API from HinduNumerology.com — 1 operation(s) for personal year.
+- [HinduNumerology.com Personal Year {num} API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-personal-year-num-api/) — The Personal Year {num} API from HinduNumerology.com — 1 operation(s) for personal year {num}.
+- [HinduNumerology.com Plus API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-plus-api/) — The Plus API from HinduNumerology.com — 1 operation(s) for plus.
+- [HinduNumerology.com Privacy API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-privacy-api/) — The Privacy API from HinduNumerology.com — 1 operation(s) for privacy.
+- [HinduNumerology.com Robots.txt API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-robots-txt-api/) — The Robots.txt API from HinduNumerology.com — 1 operation(s) for robots.txt.
+- [HinduNumerology.com Sitemap Angel Numbers.xml API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-sitemap-angel-numbers-xml-api/) — The Sitemap Angel Numbers.xml API from HinduNumerology.com — 1 operation(s) for sitemap angel numbers.xml.
+- [HinduNumerology.com Sitemap Blog.xml API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-sitemap-blog-xml-api/) — The Sitemap Blog.xml API from HinduNumerology.com — 1 operation(s) for sitemap blog.xml.
+- [HinduNumerology.com Sitemap Calculators.xml API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-sitemap-calculators-xml-api/) — The Sitemap Calculators.xml API from HinduNumerology.com — 1 operation(s) for sitemap calculators.xml.
+- [HinduNumerology.com Sitemap Compatibility.xml API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-sitemap-compatibility-xml-api/) — The Sitemap Compatibility.xml API from HinduNumerology.com — 1 operation(s) for sitemap compatibility.xml.
+- [HinduNumerology.com Sitemap Numbers.xml API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-sitemap-numbers-xml-api/) — The Sitemap Numbers.xml API from HinduNumerology.com — 1 operation(s) for sitemap numbers.xml.
+- [HinduNumerology.com Sitemap Tools.xml API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-sitemap-tools-xml-api/) — The Sitemap Tools.xml API from HinduNumerology.com — 1 operation(s) for sitemap tools.xml.
+- [HinduNumerology.com Sitemap.xml API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-sitemap-xml-api/) — The Sitemap.xml API from HinduNumerology.com — 1 operation(s) for sitemap.xml.
+- [HinduNumerology.com Terms API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-terms-api/) — The Terms API from HinduNumerology.com — 1 operation(s) for terms.
+- [HinduNumerology.com Utility API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-utility-api/) — The utility API from HinduNumerology.com — 1 operation(s) for utility.
+- [HinduNumerology.com Waitlist API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-waitlist-api/) — The Waitlist API from HinduNumerology.com — 1 operation(s) for waitlist.
+- [HinduNumerology.com Weekly Numerology Forecast API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-weekly-numerology-forecast-api/) — The Weekly Numerology Forecast API from HinduNumerology.com — 1 operation(s) for weekly numerology forecast.
+- [HinduNumerology.com Yearly Numerology Forecast API](https://apis.io/apis/hindunumerology-com/hindunumerology-com-yearly-numerology-forecast-api/) — The Yearly Numerology Forecast API from HinduNumerology.com — 1 operation(s) for yearly numerology forecast.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [HinduNumerology.com Agentic Access](https://apis.io/agentic-access/hindunumerology-com/hindunumerology-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CompatibilityRequest](https://apis.io/schemas/hindunumerology-com/hindunumerology-com-compatibility-request/)
+- [ForecastRequest](https://apis.io/schemas/hindunumerology-com/hindunumerology-com-forecast-request/)
+- [FullProfileRequest](https://apis.io/schemas/hindunumerology-com/hindunumerology-com-full-profile-request/)
+- [MonthlyForecastRequest](https://apis.io/schemas/hindunumerology-com/hindunumerology-com-monthly-forecast-request/)
+- [PersonalYearRequest](https://apis.io/schemas/hindunumerology-com/hindunumerology-com-personal-year-request/)
+- [YearlyForecastRequest](https://apis.io/schemas/hindunumerology-com/hindunumerology-com-yearly-forecast-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Hindunumerology Com Context](https://apis.io/jsonld/hindunumerology-com/hindunumerology-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [HinduNumerology.com Openapi Overlay](https://apis.io/overlays/hindunumerology-com/hindunumerology-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [HinduNumerology.com API Rules](https://apis.io/rules/hindunumerology-com/hindunumerology-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [HinduNumerology.com Authentication](https://apis.io/security/hindunumerology-com/hindunumerology-com-authentication/)
+- [HinduNumerology.com Domain Security](https://apis.io/security/hindunumerology-com/hindunumerology-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hindunumerology.com/)
+- [Blog](https://hindunumerology.com/blog)
+- [Terms of service](https://hindunumerology.com/terms)
+- [Privacy policy](https://hindunumerology.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 37.7** — thin · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 50.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 20.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 33.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hindunumerology-com/](https://apis.io/providers/hindunumerology-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HinduNumerology.com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hindunumerology-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
